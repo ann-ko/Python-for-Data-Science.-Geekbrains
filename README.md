@@ -1,2 +1,2 @@
-# GB_Py_lib_for_DS
-GeekBrains course - Python libraries for DS
+# Библиотеки Python_for_DS
+Курс от GeekBrains Python libraries for DS
